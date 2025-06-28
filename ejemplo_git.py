@@ -29,3 +29,5 @@ def adios():
 #git checkout -b dev -> creamos una rama nueva llamada dev y nos cambiamos a ella 
 
 #git checkout master -> volvimos a la rama principal
+
+#git merge  dev -> traer cosas de otra rama
