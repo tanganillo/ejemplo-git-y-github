@@ -23,3 +23,7 @@ def adios():
 #git status -> ver el estado del repo, que archivos han cambiado, las veces que quieran para ver el estado del repo
 
 #git log -> ver el historial de commits, las veces que quieran para ver 
+
+#git checkout -b dev -> creamos una rama nueva llamada dev y nos cambiamos a ella  "git status para ver en que rama estamos"
+
+#git checkout master -> volvimos a la rama principal
