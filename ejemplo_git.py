@@ -31,3 +31,5 @@ def adios():
 #git checkout master -> volvimos a la rama principal
 
 #git merge  dev -> traer cosas de otra rama
+
+#git push origin main -> subir los cambios del repositorio remoto (GitHub)
